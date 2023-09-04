@@ -17,17 +17,17 @@ Running the Program
 
 #### Navigate to the project directory:
 ```
-cd childs-face-reaction-project
+cd MoodReactor
 ```
 
 #### Compile the Java code:
 
 ```
-javac Main.java
+javac src/com/atlus/moodreactor/MoodReactor.java
 ```
 #### Run the program:
 ```
-java Main
+java src/com/atlus/moodreactor/MoodReactor
 ```
 
 Follow the on-screen instructions to feed the child with "Ice Cream," "Salad," or "Milk." The program will display the child's face reaction based on the input.
